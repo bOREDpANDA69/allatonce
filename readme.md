@@ -1,4 +1,4 @@
-## LearnEd (E-learning Website)
+## AllAtOnce (E-learning Website)
 An educational website for students and programmers 😊😊😊  
 
 Our Educational Website would provide all the education related stuffs:  
